@@ -19,7 +19,7 @@
     z-index: 1;
     position: absolute;
     left: 65%;
-    top: 90%;
+    top: 92%;
     opacity: 0;
     transition: .3s ease;
 }
