@@ -12,13 +12,14 @@
     background-color:burlywood;
 }
 #copied{
-    background-color:lavenderblush;
-    border: 2px solid rgb(14, 14, 14);
+    color: lavenderblush;
+    background-color:grey;
+    border: 2px solid grey;
     padding: 1% 5%;
     z-index: 1;
     position: absolute;
     left: 65%;
-    top: 89%;
+    top: 90%;
     opacity: 0;
     transition: .3s ease;
 }
