@@ -1,0 +1,33 @@
+#in,#out{
+    margin: 0 auto;
+    height: 60%;
+    width: 100%;
+    display: block;
+}
+#bt-1,#bt-2{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    background-color:burlywood;
+}
+#copied{
+    background-color:lavenderblush;
+    border: 2px solid rgb(14, 14, 14);
+    padding: 1% 5%;
+    z-index: 1;
+    position: absolute;
+    left: 65%;
+    top: 89%;
+    opacity: 0;
+    transition: .3s ease;
+}
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+    margin: 4% 0;
+    font-family:cursive;
+}
+body{
+    background-color: coral;
+}
